@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Jaswanth Raj!
 
-I'm a passionate web developer with a strong foundation in building dynamic and responsive web applications. My expertise includes Angular, HTML, CSS, Spring Boot, and SQL.
+I'm a passionate web developer with a strong foundation in building dynamic and responsive web applications. 
 
 ## 🌟 Skills
 - **Front-end:** Angular, HTML, CSS
-- **Back-end:** Spring Boot
+- **Back-end:** Spring Boot, Python
 - **Database:** SQL
 - **Version Control:** Git
 
